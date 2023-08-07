@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jordan-springer
-- 👀 I’m interested in data engineering
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data engineering topcs 
-- 📫 How to reach me 
+- 👀 I’m interested in dbt
+- 🌱 I’m currently learning python, Docker
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me: jas4235@outlook.com 
 
 <!---
 jordan-springer/jordan-springer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
