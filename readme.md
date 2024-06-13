@@ -1,5 +1,5 @@
 # Hello friend.
-- 👋🏽 Im Jordan [he, they]
+- 👋🏽 I'm Jordan [he, they]
 - ⌨️ I'm a data developer at code.org
 - ⚙️ I'm currently working with AI 🤖
 - 📫 How to reach me: jordan@code.org 
